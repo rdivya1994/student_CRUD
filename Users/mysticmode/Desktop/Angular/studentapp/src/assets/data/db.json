@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "std": 1,
+      "total_marks": 200,
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "first_name": "divya",
+      "last_name": "r",
+      "email": "divi@gmail.com",
+      "id": 4,
+      "total_marks": 200,
+      "std": "6"
+    },
+    {
+      "first_name": "akshaya",
+      "last_name": "r",
+      "std": "6",
+      "email": "aks@gmail.com",
+      "total_marks": 200,
+      "id": 5
+    },
+    {
+      "first_name": "senthil",
+      "last_name": "rhaj",
+      "std": "7",
+      "total_marks": "500",
+      "email": "senthil@gmail.com",
+      "id": 6
+    },
+    {
+      "first_name": "ravi",
+      "last_name": "chandran",
+      "std": "6",
+      "total_marks": "400",
+      "email": "ravi@gmail.com",
+      "id": 7
+    },
+    {
+      "first_name": "abc",
+      "last_name": "a",
+      "std": "6",
+      "total_marks": "700",
+      "email": "adsd",
+      "id": 8
+    },
+    {
+      "first_name": "ajay",
+      "last_name": "s",
+      "std": "1",
+      "total_marks": "500",
+      "email": "ajay@gmail.com",
+      "id": 9
+    }
+  ]
+}
